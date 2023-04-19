@@ -37,12 +37,18 @@
 #navegacao{
     display: flex;
     width: 100%;
-    height: 250px;
+    height: 100px;
     padding-top: 150px;
+    border-bottom: solid 1px;
 }
 
 a {
+    color: #FF0000;
+    text-shadow: 2px 2px 5px black;  
+    font-size: 50px;
+    text-decoration: none;
     text-align: center;
     padding-left: 160px;
     padding-top: 30px;
+    
 }
